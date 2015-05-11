@@ -1,0 +1,19 @@
+{
+  "name": "set in node",
+  "version": "0.1.1",
+  "description": "wut",
+  "main": "app.js",
+  "scripts": {
+    "set": "set.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spo587/set_node"
+  },
+}
